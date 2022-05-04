@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4095539688389555536
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4349289208757470672, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_fontSize
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 4349289208757470672, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 4846451141172136158, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4846451141172136158, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.023489
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 41.250755
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941809, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6640077763842941810, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: m_Name
+      value: PlayerRedTeam Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 9187524300568143474, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: score
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9187524300568143474, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9187524300568143474, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: teamID
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9187524300568143474, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: AddSpeed0
+      value: 
+      objectReference: {fileID: 8278013492170258726, guid: 489815632d862554bbe8d16daa6b2639, type: 3}
+    - target: {fileID: 9187524300568143474, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: AddSpeed1
+      value: 
+      objectReference: {fileID: 366798986555370220, guid: 4e87bd647c5d1114d8e1d99ae9f4a1ad, type: 3}
+    - target: {fileID: 9187524300568143474, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: AddSpeed2
+      value: 
+      objectReference: {fileID: 357539054256837499, guid: a69d9f897295ae346a0c27cd853fee57, type: 3}
+    - target: {fileID: 9187524300568143474, guid: 4af62046c47933940a33014394adb132, type: 3}
+      propertyPath: bulletNum
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4af62046c47933940a33014394adb132, type: 3}

@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.thuaipb
+.plastic/
+UserSettings/
+ignore.conf
+Packages/
+.vsconfig

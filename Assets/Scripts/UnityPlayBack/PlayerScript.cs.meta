@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8f8febb868bcf7b41b583c4d8a707482
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - addLifebuff: {fileID: 4624234251390213073, guid: e509a026bde13a24dbde89ec0b510516, type: 3}
+  - moveSpeedbuff: {fileID: 8278013492170258726, guid: 489815632d862554bbe8d16daa6b2639, type: 3}
+  - Shieldbuff: {fileID: 6344280079464349939, guid: 7384bf82bd3313d458a46b30c4fb4afa, type: 3}
+  - Spearbuff: {fileID: 8924278421756509036, guid: bae9484ff538c4148aba468ac4695c7c, type: 3}
+  - AddSpeed0: {fileID: 8278013492170258726, guid: 489815632d862554bbe8d16daa6b2639, type: 3}
+  - AddSpeed1: {fileID: 366798986555370220, guid: 4e87bd647c5d1114d8e1d99ae9f4a1ad, type: 3}
+  - AddSpeed2: {fileID: 357539054256837499, guid: a69d9f897295ae346a0c27cd853fee57, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

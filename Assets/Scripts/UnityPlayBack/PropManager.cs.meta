@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 21309adf8ab606045883447ad7250d48
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - propAddSpeed: {fileID: 4355382067661818766, guid: 4567a114607487449ad4748b58bc1e52, type: 3}
+  - propAddLife: {fileID: 5099451870336561209, guid: 9b56977f440429049a9eddee4393808f, type: 3}
+  - propGem: {fileID: 8861400019032439793, guid: 80d1cb78f2a5a4f468b66fd0c8b13860, type: 3}
+  - propShield: {fileID: 6344280079464349939, guid: 7384bf82bd3313d458a46b30c4fb4afa, type: 3}
+  - propSpear: {fileID: 8924278421756509036, guid: bae9484ff538c4148aba468ac4695c7c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
